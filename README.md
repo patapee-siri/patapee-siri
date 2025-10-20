@@ -1,6 +1,8 @@
 ## Oi I'm Meen👋
 
-![rub-hands-tongue-out](https://github.com/user-attachments/assets/593a1219-ed2d-4c00-b037-ca8ac2612d2b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/593a1219-ed2d-4c00-b037-ca8ac2612d2b" width="500" alt="rub-hands-tongue-out">
+</p>
 
 Please ignore the GIF
 <!--
