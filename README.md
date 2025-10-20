@@ -1,22 +1,12 @@
-## Oi I'm Meen👋
+## Oi I'm Meen (Patapee Siribenjaponsakun)👋
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/593a1219-ed2d-4c00-b037-ca8ac2612d2b" width="500" alt="rub-hands-tongue-out">
+  A Biomedical Engineering student at Rangsit University with a passion for leveraging technology to solve complex challenges in healthcare.
+</p>
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/593a1219-ed2d-4c00-b037-ca8ac2612d2b" width="300" alt="rub-hands-tongue-out">
 </p>
 
 Please ignore the GIF
-<!--
-**patapee-siri/patapee-siri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
