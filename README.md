@@ -1,5 +1,8 @@
-## Hi there 👋
+## Oi I'm Meen👋
 
+![rub-hands-tongue-out](https://github.com/user-attachments/assets/593a1219-ed2d-4c00-b037-ca8ac2612d2b)
+
+Please ignore the GIF
 <!--
 **patapee-siri/patapee-siri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
